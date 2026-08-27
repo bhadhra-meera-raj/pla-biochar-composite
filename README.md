@@ -24,8 +24,9 @@ The PLA-biochar composites were prepared and evaluated using appropriate materia
 - Experimental Analysis
 - Data Analysis
 
-  ## Result
--Developed a PLA-biochar composite with 5 wt% coconut shell-derived biochar via solution casting using chloroform as solvent.
--Analyzed corrosion behaviour in alkaline medium over 7 days, benchmarking against pure PLA and reducing weight loss from
+## Result
+
+- Developed a PLA-biochar composite with 5 wt% coconut shell-derived biochar via solution casting using chloroform as solvent.
+- Analyzed corrosion behaviour in alkaline medium over 7 days, benchmarking against pure PLA and reducing weight loss from
 20% to 17%.
--Documented experimental procedures, findings, and technical conclusions through project reports and presentations
+- Documented experimental procedures, findings, and technical conclusions through project reports and presentations
